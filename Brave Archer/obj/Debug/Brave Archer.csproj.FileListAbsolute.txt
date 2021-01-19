@@ -1,0 +1,11 @@
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\bin\Debug\Brave Archer.exe.config
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\bin\Debug\Brave Archer.exe
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\bin\Debug\Brave Archer.pdb
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\obj\Debug\Brave Archer.csprojAssemblyReference.cache
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\obj\Debug\Brave_Archer.Properties.Resources.resources
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\obj\Debug\Brave Archer.csproj.GenerateResource.cache
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\obj\Debug\Brave Archer.csproj.CoreCompileInputs.cache
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\obj\Debug\Brave Archer.exe
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\obj\Debug\Brave Archer.pdb
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\obj\Debug\Brave_Archer.gameScreen.resources
+C:\Users\BUGRA\Desktop\Brave Archer\Brave Archer\obj\Debug\Brave_Archer.mainMenu.resources
