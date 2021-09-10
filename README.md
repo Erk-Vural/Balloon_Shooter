@@ -1,2 +1,2 @@
 # ArcherGame
-2d space invaders like game using C# & OOP
+2D balloon shooting game using C# and OOP
