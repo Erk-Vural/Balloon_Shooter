@@ -12,7 +12,6 @@ Balloon Shooter is a 2D balloon shooting game developed using C# and Object-Orie
 ## Technologies Used
 
 - C#
-- Unity (optional, if developed in Unity)
 - Object-Oriented Programming (OOP)
 
 ## Installation
@@ -24,12 +23,7 @@ Balloon Shooter is a 2D balloon shooting game developed using C# and Object-Orie
 
 2. Open the project in your preferred C# IDE or game development environment.
 
-3. If developed in Unity:
-   - Open Unity and load the project directory.
-   - Run the game from the Unity editor or build and run on your desired platform.
-
-4. If developed using other tools:
-   - Follow the specific instructions for building and running the game in your chosen environment.
+3. Run project.
 
 ## Usage
 
